@@ -1,0 +1,4 @@
+{
+  "mongoUrI": "mongodb+srv://SteveLoic:SteveLoic@contactbook-umvws.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "SteveLoic"
+}
